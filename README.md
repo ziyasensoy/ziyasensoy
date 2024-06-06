@@ -3,8 +3,7 @@
 ![Student Software Engineering](https://pbs.twimg.com/profile_banners/1796970206033584128/1717710681/1500x500)
 
 I'm Ziya from the Netherlands, and i am a student Software Engineering. I really enjoy learning languages and frameworks like react, as well as work in WordPress.
-I Also enjoy wireframing, ui, ux, and design in general.I Also enjoy wireframing, ui, ux, and design in general.
-
+I Also enjoy wireframing, ui, ux, and design in general.
 Skills: Java / JS / HTML / CSS
 
 - 🔭 I’m currently working on my portfolio 
