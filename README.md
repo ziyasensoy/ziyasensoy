@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ziya
 #### Student Software Engineering
-![Student Software Engineering](https://pbs.twimg.com/profile_banners/1796970206033584128/1717710681/1500x500)
+![Student Software Engineering]
 
 I'm Ziya from the Netherlands, and i am a student Software Engineering. I really enjoy learning languages and frameworks like react, as well as work in WordPress.
 I Also enjoy wireframing, ui, ux, and design in general.
