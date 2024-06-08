@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Ziya
 #### Student Software Engineering
-![Student Software Engineering]
 
 I'm Ziya from the Netherlands, and i am a student Software Engineering. I really enjoy learning languages and frameworks like react, as well as work in WordPress.
 I Also enjoy wireframing, ui, ux, and design in general.
