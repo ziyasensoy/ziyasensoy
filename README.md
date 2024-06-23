@@ -14,6 +14,8 @@ I Also enjoy wireframing, ui, ux, and design in general.
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ziyasensoy)
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/ziyasensoy)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:zcsensoy@gmail.com)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/505388422999965717)
+
 
 
 ## Skills
