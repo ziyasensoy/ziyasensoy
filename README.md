@@ -30,6 +30,6 @@ I Also enjoy wireframing, ui, ux, and design in general.
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,vscode,figma,,githubactions,gitlab)
+![Others](https://skillicons.dev/icons?i=git,github,vscode,figma,intellij,githubactions,gitlab)
 
 
