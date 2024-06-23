@@ -1,4 +1,4 @@
-# Hi, I'm Ziya Sensoy! 👋
+# Hi, I'm Ziya! 👋
 
 Welcome to my GitHub profile! 🌟
 I am a passionate frontend developer and student Software Engineering from Amsterdam
