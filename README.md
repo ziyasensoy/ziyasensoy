@@ -14,7 +14,7 @@ I Also enjoy wireframing, ui, ux, and design in general.
 - [LinkedIn](https://www.linkedin.com/in/ziyasensoy)
 - [X](https://x.com/ziyasensoy)
 - [Personal Website](https://ziyasensoy.github.io/MyWebsite/)
-- ![[[LinkedIn](https://www.linkedin.com/in/ziyasensoy)](https://skillicons.dev/icons?i=linkedin)]
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ziyasensoy)
 
 ## Skills
 
