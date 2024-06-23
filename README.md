@@ -11,10 +11,9 @@ I Also enjoy wireframing, ui, ux, and design in general.
 - 📫 How to reach me: zcsensoy@gmail.com
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/ziyasensoy)
-- [X](https://x.com/ziyasensoy)
-- [Personal Website](https://ziyasensoy.github.io/MyWebsite/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ziyasensoy)
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/ziyasensoy)
+[Personal Website](https://ziyasensoy.github.io/MyWebsite/)
 
 ## Skills
 
