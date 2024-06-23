@@ -10,9 +10,6 @@ I Also enjoy wireframing, ui, ux, and design in general.
 - 🌱 I’m currently learning JavaScript and React 
 - 📫 How to reach me: zcsensoy@gmail.com
 
-## GitHub Stats
-![Ziya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziyasensoy&show_icons=true&theme=cobalt)
-
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/ziyasensoy)
 - [X](https://x.com/ziyasensoy)
