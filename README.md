@@ -18,13 +18,13 @@ I Also enjoy wireframing, ui, ux, and design in general.
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=js,java,cs)
+![Languages](https://skillicons.dev/icons?i=js,php,java,cs)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,bootstrap,sass)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb)
+![Database & Tools](https://skillicons.dev/icons?i=sql,mysql,mongodb)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,vscode,figma,gitlab)
