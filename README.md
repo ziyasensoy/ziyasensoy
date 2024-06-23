@@ -14,6 +14,7 @@ I Also enjoy wireframing, ui, ux, and design in general.
 - [LinkedIn](https://www.linkedin.com/in/ziyasensoy)
 - [X](https://x.com/ziyasensoy)
 - [Personal Website](https://ziyasensoy.github.io/MyWebsite/)
+- ![[LinkedIn](https://www.linkedin.com/in/ziyasensoy)](https://skillicons.dev/icons?i=linkedin)
 
 ## Skills
 
@@ -21,7 +22,7 @@ I Also enjoy wireframing, ui, ux, and design in general.
 ![Languages](https://skillicons.dev/icons?i=js,php,java,cs)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,bootstrap,sass)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,bootstrap,sass,wordpress)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb)
