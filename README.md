@@ -24,7 +24,7 @@ I Also enjoy wireframing, ui, ux, and design in general.
 ![Languages](https://skillicons.dev/icons?i=js,php,java,cs)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,jquery,html,css,tailwind,sass,wordpress)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,sass,wordpress)
 
 #### Database Technologies
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb)
