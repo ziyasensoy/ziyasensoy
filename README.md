@@ -1,7 +1,7 @@
 # Hi, I'm Ziya! 👋
 
 Welcome to my GitHub profile! 🌟
-I am a passionate frontend developer and student Software Engineering from Amsterdam
+I am a passionate frontend developer and Software Engineering student from Amsterdam
 
 ## Get in touch
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ziyasensoy)
