@@ -1,3 +1,9 @@
+<div>
+<img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+
+<br>
+
 # Hi, I'm Ziya! 👋
 
 Welcome to my GitHub profile! 🌟
