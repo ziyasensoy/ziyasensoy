@@ -3,13 +3,6 @@
 Welcome to my GitHub profile! 🌟
 I am a passionate frontend developer and student Software Engineering from Amsterdam
 
-I really enjoy learning languages and frameworks like react, as well as work in WordPress.
-I Also enjoy wireframing, ui, ux, and design in general.
-
-- 🔭 I’m currently working on my portfolio 
-- 🌱 I’m currently learning JavaScript and React 
-- 📫 How to reach me: zcsensoy@gmail.com
-
 ## Connect with me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ziyasensoy)
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/ziyasensoy)
