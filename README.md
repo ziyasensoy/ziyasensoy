@@ -16,17 +16,6 @@ I am a passionate frontend developer and student Software Engineering from Amste
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:zcsensoy@gmail.com)
 
 ## Skills
-
-#### Programming Languages
-![Languages](https://skillicons.dev/icons?i=js,php,java,cs)
-
-#### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,sass,wordpress)
-
-#### Database Technologies
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb)
-
-#### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,azure,vscode,idea,figma,gitlab)
+![Skills](https://skillicons.dev/icons?i=js,react,html,css,bootstrap,tailwind,sass,wordpress,mysql,git,figma)
 
 
