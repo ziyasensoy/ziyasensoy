@@ -10,6 +10,6 @@ I am a passionate frontend developer and Software Engineering student from Amste
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:zcsensoy@gmail.com)
 
 ## Skills
-![Skills](https://skillicons.dev/icons?i=js,react,html,css,bootstrap,tailwind,sass,wordpress,mysql,git,figma)
+![Skills](https://skillicons.dev/icons?i=js,ts,react,vite,html,css,bootstrap,tailwind,sass,wordpress,mysql,git,figma)
 
 
