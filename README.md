@@ -9,7 +9,7 @@ I'm a passionate frontend developer and Software Engineering student from Amster
 - 🌱 I’m currently learning typescript, react and tailwind
 - 💬 Ask me about responsive web design
 
-## Skills
+### Skills
 ![Skills](https://skillicons.dev/icons?i=java,js,html,css,wordpress,mysql,git,figma)
 
 
