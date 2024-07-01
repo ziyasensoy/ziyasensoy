@@ -7,7 +7,6 @@ I am a passionate frontend developer and Software Engineering student from Amste
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ziyasensoy)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/ziyasensoy)
 [![Codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.com/ziyasensoy)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:zcsensoy@gmail.com)
 
 ## Skills
 ![Skills](https://skillicons.dev/icons?i=java,js,html,css,wordpress,mysql,git,figma)
