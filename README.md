@@ -10,7 +10,7 @@ I'm a passionate frontend developer and Software Engineering student from Amster
 - 💬 Ask me about responsive web design
 
 ### Skills
-![Skills](https://skillicons.dev/icons?i=java,js,html,css,wordpress,mysql,git,figma)
+![Skills](https://skillicons.dev/icons?i=java,js,html,css,bootstrap,wordpress,mysql,git,figma)
 
 
 
