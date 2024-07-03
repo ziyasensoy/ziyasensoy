@@ -11,6 +11,3 @@ I'm a passionate frontend developer and Software Engineering student from Amster
 
 ### Skills
 ![Skills](https://skillicons.dev/icons?i=java,js,html,css,bootstrap,wordpress,mysql,git,figma)
-
-### Skills
-<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
