@@ -6,7 +6,7 @@ I'm a aspiring Frontend Developer and Software Engineering student based in Amst
 ### What I'm doing now
 
 - 🔭 I’m currently contributing to open source projects and expending my portfolio by building awesome things
-- 🌱 I’m currently learning Springboot, TypeScript and Vue.js.
+- 🌱 I’m currently making a website with Vue, Typescript and Java.
 - 💬 Ask me about responsive web design
 
 ### Skills
