@@ -10,4 +10,4 @@ I'm a aspiring Frontend Developer and Software Engineering student based in Amst
 - 💬 Ask me about responsive web design
 
 ### Skills
-![Skills](https://skillicons.dev/icons?i=ts,js,vue,java,springboot,css,html,tailwind,bootstrap,svg,mysql,git,figma)
+![Skills](https://skillicons.dev/icons?i=ts,js,vue,java,spring,css,html,tailwind,bootstrap,svg,mysql,git,figma)
