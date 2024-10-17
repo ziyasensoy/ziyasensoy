@@ -6,8 +6,8 @@ I'm a aspiring Frontend Developer and Software Engineering student based in Amst
 ### What I'm doing now
 
 - 🔭 I’m currently contributing to open source projects and expending my portfolio by building awesome things
-- 🌱 I’m currently learning Springboot, TypeScript, Vue.js and Tailwind.
+- 🌱 I’m currently learning Springboot, TypeScript and Vue.js.
 - 💬 Ask me about responsive web design
 
 ### Skills
-![Skills](https://skillicons.dev/icons?i=java,js,css,html,bootstrap,wordpress,mysql,git,figma)
+![Skills](https://skillicons.dev/icons?i=java,js,css,html,tailwind,bootstrap,wordpress,mysql,git,figma)
