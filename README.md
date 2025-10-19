@@ -1,7 +1,7 @@
-## Hi there 👋, I'm Ziya
+## Hi 👋, I'm Ziya
 
 Welcome to my GitHub profile! 🌟 <br>
-I'm a aspiring Frontend Developer and Software Engineering student based in Amsterdam
+I'm a Frontend Developer and Software Engineering student based in Amsterdam
 
 ### What I'm doing now
 
